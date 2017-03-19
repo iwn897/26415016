@@ -1,0 +1,7 @@
+m26415016@john.petra.ac.id:~$ mkdir bin
+m26415016@john.petra.ac.id:~$ cd bin
+m26415016@john.petra.ac.id:~$ vim myownscript
+#!/bin/bash
+echo "Today is $(DATE)"
+echo "You are in $(pwd) and your host is $(hostname)"
+m26415016@john.petra.ac.id:~$ chmod 755 myownscript
