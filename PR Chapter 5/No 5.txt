@@ -1,0 +1,5 @@
+m26415016@john.petra.ac.id:~$ mkdir test
+m26415016@john.petra.ac.id:~$ cd test
+m26415016@john.petra.ac.id:~$ touch {one,two,three}
+m26415016@john.petra.ac.id:~$ chmod 777 {one,two,three}
+m26415016@john.petra.ac.id:~$ find $HOME -perm -002 -type f -ls

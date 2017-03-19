@@ -1,0 +1,2 @@
+m26415016@john.petra.ac.id:~$ vim /tmp/services
+:notes

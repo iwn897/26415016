@@ -1,0 +1,3 @@
+m26415016@john.petra.ac.id:~$ cp /etc/services /tmp
+m26415016@john.petra.ac.id:~$ vim /tmp/services/
+m26415016@john.petra.ac.id:~$ mv WorldWideWeb "World Wide Web"

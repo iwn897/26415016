@@ -1,0 +1,2 @@
+m26415016@john.petra.ac.id:~$ cd usr/share/doc/kernel.doc*
+m26415016@john.petra.ac.id:~$ grep -rli e1000
